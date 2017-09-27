@@ -1,0 +1,1 @@
+fake; cat /etc/natas_webpass/natas10 #
